@@ -39,7 +39,7 @@ SQL · XML · JSON · Linux · Metodologías ágiles · Diseño y Arquitectura d
 
 ## 🚀 Proyectos destacados
 
-### 🐚 MiniShell en C
+### 🐚 [MiniShell en C](https://github.com/arturox2500/ProyectoC)
 Shell básica con ejecución de comandos, redirecciones, procesos hijos y tuberías.  
 👉 Enfocada en prácticas de sistemas operativos.
 
@@ -47,13 +47,16 @@ Shell básica con ejecución de comandos, redirecciones, procesos hijos y tuber�
 Refactorización de aplicación de escritorio con mejoras en UI, arquitectura y modularidad.  
 🔧 Evolución funcional con enfoque en calidad de código.
 
-### 🌐 Web Full-Stack (Java + Angular)
+### 🌐 [Web Full-Stack (Java + Angular)](https://github.com/CodeURJC-DAW-2024-25/webapp08)
 Aplicación con API REST en Java y frontend en Angular, desplegada con Docker.  
 🔐 Incluye autenticación y gestión de tareas.
 
-### 🎲 Monopoly en Java
+### 🎲 [Monopoly en Java](https://github.com/IvanGutierrrez/Monopoly-POO)
 Implementación completa de la lógica del juego usando POO, herencia y polimorfismo.
 
+### 🎮 [PRG en Java](https://github.com/IvanGutierrrez/Trabajo-MP)
+Aplicación sin interfaz gráfica con gestión de usuarios y batallas RPG.
+📌 Enfocada en seguir un ciclo de vide del desarrollo de software
 ---
 
 ## 📊 GitHub Stats
@@ -68,7 +71,7 @@ Implementación completa de la lógica del juego usando POO, herencia y polimorf
 **Grado en Ingeniería del Software** (2022 – Presente)  
 Universidad Rey Juan Carlos
 
-**Curso de Programación Competitiva** (2024)  
+**Curso de Programación Competitiva** (2023)  
 Universidad Rey Juan Carlos
 
 ---
@@ -77,7 +80,3 @@ Universidad Rey Juan Carlos
 
 - Español: Nativo  
 - Inglés: B1
-
----
-
-Gracias por visitar mi perfil 😊  
