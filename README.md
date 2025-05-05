@@ -55,8 +55,8 @@ Aplicación con API REST en Java y frontend en Angular, desplegada con Docker.
 Implementación completa de la lógica del juego usando POO, herencia y polimorfismo.
 
 ### 🎮 [PRG en Java](https://github.com/IvanGutierrrez/Trabajo-MP)
-Aplicación sin interfaz gráfica con gestión de usuarios y batallas RPG.
-📌 Enfocada en seguir un ciclo de vide del desarrollo de software
+Aplicación sin interfaz gráfica con gestión de usuarios y batallas RPG.  
+📌 Enfocada en seguir un ciclo de vide del desarrollo de software.
 
 ---
 
