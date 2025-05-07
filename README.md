@@ -47,7 +47,7 @@ Shell básica con ejecución de comandos, redirecciones, procesos hijos y tuber�
 Refactorización de aplicación de escritorio con mejoras en UI, arquitectura y modularidad, centradas en la aplicación de los principios SOLID.
 🔧 *Proyecto actualmente en desarrollo*
 
-### 🌐 [Web Full-Stack (Java + Angular)](https://github.com/CodeURJC-DAW-2024-25/webapp08)
+### 🌐 [Web Full-Stack (Java + Angular)](https://github.com/IvanGutierrrez/webapp)
 Aplicación con API REST en Java y frontend en Angular, desplegada con Docker.  
 🔐 Incluye autenticación y gestión de tareas.
 
