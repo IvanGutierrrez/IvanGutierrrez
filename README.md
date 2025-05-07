@@ -39,7 +39,7 @@ SQL · XML · JSON · Linux · Metodologías ágiles · Diseño y Arquitectura d
 
 ## 🚀 Proyectos destacados
 
-### 🐚 [MiniShell en C](https://github.com/arturox2500/ProyectoC)
+### 🐚 [MiniShell en C](https://github.com/IvanGutierrrez/Minishell)
 Shell básica con ejecución de comandos, redirecciones, procesos hijos y tuberías.  
 👉 Enfocada en prácticas de sistemas operativos.
 
