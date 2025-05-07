@@ -30,7 +30,7 @@ Estudiante de tercer curso del Grado en Ingeniería del Software. Apasionado por
 Java · Python · C · C++ · JavaScript · TypeScript · Pascal
 
 **Frameworks y herramientas**  
-Git · Github · SpringBoot · Maven · Angular · JavaFX · Docker / Docker Compose · CI/CD (Jenkins y Github Actions) · Guroby
+Git · Github · SpringBoot · Maven · Angular · JavaFX · Docker / Docker Compose · CI/CD (Jenkins y Github Actions) · Guroby · Testing (Unitario, Integración, Sistema -Selenium-, Carga -Artillery-)
 
 **Otros conocimientos**  
 SQL · XML · JSON · Linux · Metodologías ágiles · Diseño y Arquitectura de Software
