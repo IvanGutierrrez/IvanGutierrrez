@@ -30,7 +30,7 @@ Estudiante de tercer curso del Grado en Ingeniería del Software. Apasionado por
 Java · Python · C · C++ · JavaScript · TypeScript · Pascal
 
 **Frameworks y herramientas**  
-Git · Github · SpringBoot · Maven · Angular · JavaFX · Docker / Docker Compose · CI/CD (Jenkins y Github Actions)
+Git · Github · SpringBoot · Maven · Angular · JavaFX · Docker / Docker Compose · CI/CD (Jenkins y Github Actions) · Guroby
 
 **Otros conocimientos**  
 SQL · XML · JSON · Linux · Metodologías ágiles · Diseño y Arquitectura de Software
@@ -57,6 +57,9 @@ Implementación completa de la lógica del juego usando POO, herencia y polimorf
 ### 🎮 [PRG en Java](https://github.com/IvanGutierrrez/RPG)
 Aplicación sin interfaz gráfica con gestión de usuarios y batallas RPG.  
 📌 Enfocada en seguir un ciclo de vide del desarrollo de software.
+
+### 🧠 [Simulación de colas en servidores y solución de problemas tipo P](https://github.com/IvanGutierrrez/Investigacion-Operativa)
+Soluciones en Python a diferentes problemas del campo de la Investigación Operativa.
 
 ---
 
