@@ -43,9 +43,9 @@ SQL · XML · JSON · Linux · Metodologías ágiles · Diseño y Arquitectura d
 Shell básica con ejecución de comandos, redirecciones, procesos hijos y tuberías.  
 👉 Enfocada en prácticas de sistemas operativos.
 
-### 🛠️ Strategy en JavaFX
+### 🛠️ [Estratego en JavaFX](https://github.com/IvanGutierrrez/Estratego)
 Refactorización de aplicación de escritorio con mejoras en UI, arquitectura y modularidad, centradas en la aplicación de los principios SOLID.
-🔧 *Proyecto actualmente en desarrollo*
+🔧 Mantenimiento y evolución de un sistema heredado
 
 ### 🌐 [Web Full-Stack (Java + Angular)](https://github.com/IvanGutierrrez/webapp)
 Aplicación con API REST en Java y frontend en Angular, desplegada con Docker.  
