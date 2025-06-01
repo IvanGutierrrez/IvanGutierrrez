@@ -10,7 +10,7 @@
 
 Estudiante de tercer curso del Grado en Ingeniería del Software. Apasionado por resolver problemas técnicos y perfeccionar sistemas digitales. Con experiencia en colaboración en equipos multidisciplinares, escritura de código limpio y optimización de procesos de desarrollo. Interesado especialmente en la programación de sistemas, desarrollo de algoritmos y mejora continua de soluciones técnicas.
 
-🔍 Particular interés en la microelectrónica, programación a bajo nivel y sistemas embebidos (GNSS, sensores, etc.). Me motiva construir software robusto, modular y de alto rendimiento.
+🔍 Particular interés en la microelectrónica, programación a bajo nivel, simulaciones en tiempo real, sistemas operativos y sistemas embebidos (GNSS, sensores, etc.). Me motiva construir software robusto, modular y de alto rendimiento.
 
 ---
 
