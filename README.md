@@ -54,7 +54,7 @@ Aplicación con API REST en Java y frontend en Angular, desplegada con Docker.
 ### 🎲 [Monopoly en Java](https://github.com/IvanGutierrrez/Monopoly-POO)
 Implementación completa de la lógica del juego usando POO, herencia y polimorfismo.
 
-### 🎮 [PRG en Java](https://github.com/IvanGutierrrez/RPG)
+### 🎮 [RPG en Java](https://github.com/IvanGutierrrez/RPG)
 Aplicación sin interfaz gráfica con gestión de usuarios y batallas RPG.  
 📌 Enfocada en seguir un ciclo de vide del desarrollo de software.
 
